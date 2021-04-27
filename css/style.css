@@ -94,7 +94,7 @@ audio {
     #right { float: right; width: 40%; }
 .content{
   width: 100%;
-  top:60px;
+  /*top:60px;*/
   position: relative;
 }
 .wrapper{
